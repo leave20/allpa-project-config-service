@@ -9,3 +9,4 @@ spring:
                 git:
                     default-label: main
                     uri: https://github.com/leave20/allpa-project-config-data
+                    search-paths: config-data
